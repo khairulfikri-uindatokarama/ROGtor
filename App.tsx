@@ -49,7 +49,7 @@ function App() {
             FSAINTEK UIN Datokarama Palu Sulawesi Tengah
           </h2>
           <p className="text-gray-500 font-medium text-sm">
-            Aplikasi ini merupakan aplikasi pembuatan RPS OBE secara otomatis menggunakan bantuan AI. aplikasi ini menggunakan sumber source code aplikasi Muhammad Haramain (LPPM IAIN Parepare).
+            Aplikasi ini merupakan aplikasi pembuatan RPS OBE secara otomatis menggunakan bantuan AI. 
           </p>
            
         </div>
